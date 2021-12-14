@@ -7,3 +7,8 @@ func main() {
 
 	fmt.Println(nombre)
 }
+
+//comentario
+/*
+comentario
+*/
